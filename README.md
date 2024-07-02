@@ -1,6 +1,6 @@
 # Taylor Diagram
 
-A Taylor Diagram is a graphical representation used to evaluate how well models reproduce the observed data. It displays three statistical measures: correlation coefficient, root mean square deviation (RMSD), and the standard deviation of both observed and model data. Here’s a basic guide on how to create and interpret a Taylor Diagram.
+A Taylor Diagram is a graphical representation used to evaluate how well models reproduce the observed data. It displays three statistical measures: correlation coefficient, root mean square deviation (RMSD), and the standard deviation of both observed and model data.
 This repository contains the code for generating Taylor Diagrams to visualize the performance of various models based on multiple evaluation metrics. The Taylor Diagrams are created from a CSV file containing the observed values and model predictions.
 
 ## Features
